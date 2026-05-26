@@ -1,94 +1,174 @@
-# Code-ive-Pradyumn-K.-Arya-
 # 👋 Hi, I'm Pradyumn Krishna Arya
 
 ### 🚀 AI/ML Developer | 🌟 Open Source Contributor | 🎓 Student at VIT Bhopal
 
-💡 I am an AI/ML-focused developer passionate about building practical, well-documented, and scalable software solutions. My interests include **Deep Learning, Computer Vision, Natural Language Processing, Transformer Architectures, and modern development workflows**.
+💡 I am an AI/ML-focused developer passionate about building practical, scalable, and well-documented software solutions. My interests include **Deep Learning, Computer Vision, NLP, Transformer Architectures, and modern AI development workflows**.
 
-🌱 Currently contributing to open source through **GSSoC 2026** while strengthening my fundamentals in **Machine Learning, System Design, and Production-Ready AI Development**.
+🌱 Currently contributing to open source through **GSSoC 2026** while strengthening my foundations in **Machine Learning, System Design, and Production-Ready AI Development**.
 
 ---
 
-# 🧠 About Me
+# 🎯 About Me
 
-- 🎓 Student at **VIT Bhopal**
-- 🤖 Exploring **Deep Learning, Transformers, LLMs, NLP, and Computer Vision**
-- 🚀 Building projects for **internships, industry readiness, and open-source contribution**
-- 🛠️ Focused on clean code, reproducible workflows, and strong documentation
-- ⚡ Learning modern workflows with **Docker, GitHub Actions, Linux, and CI/CD**
-- 📚 Continuously learning through experimentation and practical implementation
+```javascript
+const pradyumn = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+
+    currentFocus: [
+        "AI/ML Engineering",
+        "Deep Learning",
+        "Open Source",
+        "Production AI Workflows"
+    ],
+
+    funFact: "I enjoy building AI systems and improving them through practical experimentation 🚀",
+
+    code: ["Python", "C++", "JavaScript"],
+
+    technologies: {
+        aiMl: [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "Hugging Face Transformers",
+            "OpenCV"
+        ],
+
+        webDevelopment: {
+            frontend: ["React", "HTML", "CSS"],
+            backend: ["Node.js", "Express.js", "REST APIs"]
+        },
+
+        deployment: [
+            "Docker",
+            "GitHub Actions",
+            "Render",
+            "Vercel",
+            "Netlify"
+        ],
+
+        tools: [
+            "Git",
+            "GitHub",
+            "Linux",
+            "VS Code",
+            "Jupyter Notebook",
+            "Google Colab",
+            "Postman"
+        ]
+    },
+
+    currentlyLearning: [
+        "Transformers",
+        "LLMs",
+        "RAG Systems",
+        "Model Optimization",
+        "System Design"
+    ],
+
+    askMeAbout: [
+        "AI/ML",
+        "Deep Learning",
+        "Open Source",
+        "Computer Vision",
+        "NLP"
+    ],
+
+    challenge: "Building practical AI systems with clean workflows and strong documentation"
+};
+```
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Languages
+## 👨‍💻 Programming Languages
+
 `Python` • `C++` • `JavaScript`
 
-## 🤖 AI / ML
-`TensorFlow` • `PyTorch` • `Scikit-learn` • `Hugging Face Transformers` • `OpenCV`  
-`NumPy` • `Pandas` • `Matplotlib`
+---
+
+## 🤖 AI / Machine Learning
+
+`TensorFlow` • `PyTorch` • `Scikit-learn` • `Hugging Face Transformers`
+`OpenCV` • `NumPy` • `Pandas` • `Matplotlib`
+
+### Areas Exploring
+
+* Deep Learning
+* NLP & Transformers
+* Computer Vision
+* LLM Workflows
+* Model Optimization
+
+---
 
 ## 🌐 Web Development
-`React` • `Node.js` • `REST APIs` • `HTML` • `CSS`
 
-## ⚙️ Tools & Platforms
-`Git` • `GitHub` • `Docker` • `Linux` • `VS Code` • `Jupyter Notebook`  
-`Google Colab` • `Postman` • `GitHub Actions`
+### Frontend
 
----
+`React` • `HTML` • `CSS`
 
-# 📂 Featured Projects
+### Backend
 
-## 🏥 Hospital Management System
-📌 A software project focused on managing hospital-related workflows and records.
-
-🔗 Repository: [Hospital_management_system](https://github.com/Code-ve/Hospital_management_system)
+`Node.js` • `Express.js` • `REST APIs`
 
 ---
 
-## 🚚 Logistic Optimization System
-📌 A project focused on logistics and optimization-based problem solving.
+## ☁️ Deployment & DevOps
 
-🔗 Repository: [Logistic-Optimization-Systen](https://github.com/Code-ve/Logistic-Optimization-Systen)
-
----
-
-## 🐧 Linux Open Source Work
-📌 A repository related to Linux and open-source coursework/practice.
-
-🔗 Repository: [Linux_opensource_24BAI10668](https://github.com/Code-ve/Linux_opensource_24BAI10668)
+`Docker` • `GitHub Actions` • `Linux`
+`Render` • `Vercel` • `Netlify`
 
 ---
 
+## 🛠️ Tools & Workflow
 
-# 🎯 Current Focus
-
-- 🧠 Deep Learning fundamentals
-- 🤖 Transformer architectures and LLMs
-- 👁️ Computer Vision and NLP projects
-- ⚡ Model optimization and performance improvement
-- 🌍 Open-source contribution through **GSSoC 2026**
-- 🧩 Problem-solving and system design
-- 🚀 Modern development workflows with Docker and CI/CD
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
+`Google Colab` • `Postman`
 
 ---
 
-# 🌟 GitHub Goals
+# 🚀 Currently Learning
 
-- 🚀 Build practical AI/ML projects
-- 🌍 Make meaningful open-source contributions
-- 📝 Improve documentation and reproducibility
-- 📚 Learn from real-world codebases
-- 🤝 Collaborate professionally with maintainers and contributors
+* Transformer Optimization Techniques
+* RAG Systems
+* Production AI Pipelines
+* Dockerized ML Deployment
+* Open Source Collaboration Workflows
+
+---
+
+# 🎯 2026 Goals
+
+* Contribute consistently to GSSoC repositories
+* Build production-ready AI projects
+* Strengthen DSA and system design fundamentals
+* Deploy end-to-end AI applications
+* Gain internship-level industry experience
 
 ---
 
 # 🌐 Connect With Me
 
-- 💻 GitHub: [Code-ve](https://github.com/Code-ve)
-- 🔗 LinkedIn: [Pradyumn Krishna Arya](https://www.linkedin.com/in/pradyumn-krishna-arya-a64024394)
-- 📧 Email: [pradyumn9412@gmail.com](mailto:pradyumn9412@gmail.com)
-- 🎓 Institution: VIT Bhopal
+* 💻 GitHub: [Code-ve](https://github.com/Code-ve)
+* 🔗 LinkedIn: [Pradyumn Krishna Arya](https://www.linkedin.com/in/pradyumn-krishna-arya-a64024394)
+* 📧 Email: [pradyumn9412@gmail.com](mailto:pradyumn9412@gmail.com)
 
 ---
+
+💬 I enjoy connecting with developers, open-source contributors, and AI enthusiasts.
+🚀 Feel free to reach out for collaboration, technical discussions, or innovative project ideas!
+
+---
+
+# 💖 Show Some Love
+
+⭐ Drop a star on repositories if you find them useful
+🤝 Open to collaboration on AI/ML and open-source projects
+🚀 Always learning, building, and improving through practical development
+
+---
+
+### 🌟 “Code is built twice — first in the mind, then in reality.” 🌟

@@ -87,7 +87,17 @@ const pradyumn = {
 Handle: `pradyumn_k.arya`
 
 <!-- CF_STATS_START -->
-Loading Codeforces statistics...
+
+### 📊 Codeforces Statistics
+
+- Current Rating: **Unrated**
+- Max Rating: **Unrated**
+- Problems Solved: **0**
+
+#### Rating Distribution
+
+
+_Last Updated: 2026-06-11 19:06 UTC_
 <!-- CF_STATS_END -->
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pradyumn_k.arya)](https://codeforces.com/profile/pradyumn_k.arya)

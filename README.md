@@ -86,9 +86,9 @@ const pradyumn = {
 
 Handle: `pradyumn_k.arya`
 
-                                          <!-- CF_STATS_START -->
-                                        Loading Codeforces statistics...
-                                          <!-- CF_STATS_END -->
+<!-- CF_STATS_START -->
+Loading Codeforces statistics...
+<!-- CF_STATS_END -->
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pradyumn_k.arya)](https://codeforces.com/profile/pradyumn_k.arya)
 

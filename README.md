@@ -8,6 +8,36 @@
 
 ---
 
+
+
+#🏆 Open-Source Contributions
+
+I believe open source is about more than writing code — it's about understanding existing systems, improving them responsibly, and collaborating through code review, testing, and documentation.
+
+MAPIE — Classwise Expected Calibration Error (ECE)
+
+Status: Merged · June 2026
+
+Contributed a feature to MAPIE, an open-source Python library for conformal prediction.
+
+What I worked on:
+
+Added a classwise parameter to expected_calibration_error.
+
+Enabled classwise calibration evaluation while preserving the existing default behavior.
+
+Added unit tests for classwise behavior, compatibility, invalid inputs, and perfect calibration.
+
+Updated the relevant documentation and addressed code-quality requirements.
+
+Engineering experience gained: ML evaluation, API design, unit testing, documentation, and maintainer-driven code review.
+
+🔗 Read the merged PR →
+
+
+
+
+
 # 🎯 About Me
 
 ```javascript

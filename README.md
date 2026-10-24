@@ -10,29 +10,20 @@
 
 
 
-#🏆 Open-Source Contributions
+## 🏆 Open-Source Contributions
 
-I believe open source is about more than writing code — it's about understanding existing systems, improving them responsibly, and collaborating through code review, testing, and documentation.
+### [MAPIE — Classwise ECE](https://github.com/scikit-learn-contrib/MAPIE/pull/934) · ✅ Merged
 
-MAPIE — Classwise Expected Calibration Error (ECE)
+Contributed to [MAPIE](https://github.com/scikit-learn-contrib/MAPIE), an open-source Python library for conformal prediction.
 
-Status: Merged · June 2026
+- Added a `classwise` parameter to `expected_calibration_error`, preserving existing default behavior.
+- Enabled classwise calibration evaluation while preserving the existing default behavior.
+- Added unit tests and updated documentation for the new functionality.
+- Updated the relevant documentation and addressed code-quality requirements.
 
-Contributed a feature to MAPIE, an open-source Python library for conformal prediction.
+**Skills:** Python · ML Evaluation · Unit Testing · API Design
 
-What I worked on:
-
-Added a classwise parameter to expected_calibration_error.
-
-Enabled classwise calibration evaluation while preserving the existing default behavior.
-
-Added unit tests for classwise behavior, compatibility, invalid inputs, and perfect calibration.
-
-Updated the relevant documentation and addressed code-quality requirements.
-
-Engineering experience gained: ML evaluation, API design, unit testing, documentation, and maintainer-driven code review.
-
-🔗 Read the merged PR → https://github.com/scikit-learn-contrib/MAPIE/pull/934?utm_source=chatgpt.com
+🔗 [**View merged PR #934 →**](https://github.com/scikit-learn-contrib/MAPIE/pull/934)
 
 
 

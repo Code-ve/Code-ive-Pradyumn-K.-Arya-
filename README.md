@@ -32,7 +32,7 @@ Updated the relevant documentation and addressed code-quality requirements.
 
 Engineering experience gained: ML evaluation, API design, unit testing, documentation, and maintainer-driven code review.
 
-🔗 Read the merged PR →
+🔗 Read the merged PR → https://github.com/scikit-learn-contrib/MAPIE/pull/934?utm_source=chatgpt.com
 
 
 

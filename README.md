@@ -1,3 +1,4 @@
+header.svg
 # 👋 Hi, I'm Pradyumn Krishna Arya
 
 ### 🚀 AI/ML Developer | 🌟 Open Source Contributor | 🎓 Student at VIT Bhopal

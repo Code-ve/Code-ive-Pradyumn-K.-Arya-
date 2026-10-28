@@ -103,35 +103,28 @@ const pradyumn = {
 ---
 
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
-    height="180"
-    alt="Top Languages"
-  />
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Streak"
-  />
+### 🤖 AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+### ⚙️ Tools & Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+### 🌐 Backend & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,vercel,githubactions" />
 </p>
 
 

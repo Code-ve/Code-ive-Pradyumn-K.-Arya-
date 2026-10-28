@@ -149,13 +149,6 @@ const pradyumn = {
 
 <br/>
 
-<h3 align="center">📱 Mobile & Desktop</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,electron" />
-</p>
-
-<br/>
 
 <h3 align="center">💻 Programming Languages</h3>
 

@@ -3,9 +3,7 @@
 </p>
 
 
-# 👋 Hi, I'm Pradyumn Krishna Arya
-
-### 🚀 AI/ML Developer | 🌟 Open Source Contributor | 🎓 Student at VIT Bhopal
+🎓 Student at VIT Bhopal
 
 💡 I am an AI/ML-focused developer passionate about building practical, scalable, and well-documented software solutions. My interests include **Deep Learning, Computer Vision, NLP, Transformer Architectures, and modern AI development workflows**.
 

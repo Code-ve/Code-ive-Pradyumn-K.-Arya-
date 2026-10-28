@@ -104,42 +104,64 @@ const pradyumn = {
 
 
 
-## 🛠️ Tech Stack
+
+## 🧰 Tech Arsenal
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Frontend Universe
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,sass,tailwind,bootstrap,redux,vite,graphql" />
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 AI/ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,postgres,mysql,mongodb,redis" />
+
+</td>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,aws,render,vercel" />
+
+</td>
+</tr>
+</table>
 
 ### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
 </p>
 
-### 🤖 AI / Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,jupyter,anaconda,cmake,bash" />
 </p>
 
-### ⚙️ Tools & Engineering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
-
-### 🌐 Backend & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,vercel,githubactions" />
-</p>
-
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-`Python` • `C++` • `JavaScript`
-
----
-
-## 🤖 AI / Machine Learning
-
-`TensorFlow` • `PyTorch` • `Scikit-learn` • `Hugging Face Transformers`
-`OpenCV` • `NumPy` • `Pandas` • `Matplotlib`
 
 ### Areas Exploring
 

@@ -105,99 +105,71 @@ const pradyumn = {
 
 
 
+
 ## 🧰 Tech Arsenal
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
 ### 🎨 Frontend Universe
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,sass,tailwind,bootstrap,redux,vite,graphql" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,sass,tailwind,bootstrap,redux,vite,graphql&perline=7" />
 
-</td>
-<td align="top" width="50%">
-
-### 🤖 AI/ML & Data Science
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
+<br/><br/><br/>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,flask,spring,mongodb,postgres,mysql,redis,graphql&perline=7" />
 
 </td>
-<td align="center">
+<td align="center" width="50%" valign="top">
+
+### 🤖 AI/ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<br/><br/><br/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,aws,render,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,git,github,gitlab,jenkins&perline=6" />
 
 </td>
 </tr>
 </table>
 
-### 💻 Programming Languages
+<br/>
+
+<h3 align="center">📱 Mobile & Desktop</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,electron" />
 </p>
 
-### 🛠️ Tools & Platforms
+<br/>
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,jupyter,anaconda,cmake,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,go,rust,php&perline=9" />
 </p>
 
+<br/>
 
-### Areas Exploring
+<h3 align="center">🛠️ Tools & Platforms</h3>
 
-* Deep Learning
-* NLP & Transformers
-* Computer Vision
-* LLM Workflows
-* Model Optimization
-
----
-
-## 🌐 Web Development
-
-### Frontend
-
-`React` • `HTML` • `CSS`
-
-### Backend
-
-`Node.js` • `Express.js` • `REST APIs`
-
----
-
-## ☁️ Deployment & DevOps
-
-`Docker` • `GitHub Actions` • `Linux`
-`Render` • `Vercel` • `Netlify`
-
----
-
-## 🛠️ Tools & Workflow
-
-`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
-`Google Colab` • `Postman`
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,jupyter,anaconda,bash,powershell,linux,ubuntu,windows&perline=11" />
+</p>
 
 # 🚀 Currently Learning
 

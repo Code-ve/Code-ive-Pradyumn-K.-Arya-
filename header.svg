@@ -1,3 +1,76 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="Pradyumn Krishna Arya — AI/ML Engineer" />
-</p>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d1a"/>
+      <stop offset="55%" stop-color="#111b35"/>
+      <stop offset="100%" stop-color="#21133c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.09"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.23"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <circle cx="1010" cy="150" r="230" fill="url(#glow)"/>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.8">
+    <circle cx="1000" cy="145" r="112" stroke-opacity="0.3"/>
+    <circle cx="1000" cy="145" r="78" stroke-opacity="0.25"/>
+    <path d="M850 95 L915 55 L985 95 L1060 48 L1130 88"/>
+    <path d="M850 95 L900 165 L970 205 L1040 160 L1130 195"/>
+    <path d="M915 55 L900 165 M985 95 L970 205 M1060 48 L1040 160 L1130 195"/>
+    <path d="M985 95 L1100 125 L1130 88"/>
+  </g>
+
+  <g fill="#67e8f9">
+    <circle cx="850" cy="95" r="4"/>
+    <circle cx="915" cy="55" r="4"/>
+    <circle cx="985" cy="95" r="5"/>
+    <circle cx="1060" cy="48" r="4"/>
+    <circle cx="1130" cy="88" r="4"/>
+    <circle cx="900" cy="165" r="4"/>
+    <circle cx="970" cy="205" r="4"/>
+    <circle cx="1040" cy="160" r="5"/>
+    <circle cx="1130" cy="195" r="4"/>
+    <circle cx="1100" cy="125" r="3"/>
+  </g>
+
+  <rect x="64" y="56" width="4" height="178" rx="2" fill="url(#accent)"/>
+
+  <text x="88" y="78"
+        font-family="monospace" font-size="13"
+        letter-spacing="3" fill="#67e8f9">ENGINEERING • INTELLIGENCE • INNOVATION</text>
+
+  <text x="84" y="151"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58" font-weight="700"
+        letter-spacing="-1.5" fill="#f8fafc">Pradyumn Krishna Arya</text>
+
+  <rect x="88" y="174" width="76" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="88" y="208"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21" font-weight="600"
+        fill="#c4b5fd">AI / ML Engineer</text>
+
+  <text x="88" y="239"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16" fill="#cbd5e1">Machine Learning  •  Deep Learning  •  Open Source</text>
+
+  <text x="88" y="281"
+        font-family="monospace" font-size="12"
+        letter-spacing="1.5" fill="#64748b">BUILD  /  EXPERIMENT  /  DEPLOY</text>
+
+  <path d="M0 314 H1200" stroke="url(#accent)" stroke-width="2" opacity="0.9"/>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".header.svg" width="100%" alt="Pradyumn Krishna Arya — AI/ML Engineer" />
+  <img src="header.svg" width="100%" alt="Pradyumn Krishna Arya — AI/ML Engineer" />
 </p>
 
 

@@ -116,7 +116,7 @@ const pradyumn = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,sass,tailwind,bootstrap,redux,vite,graphql" />
 
 </td>
-<td align="center" width="50%">
+<td align="top" width="50%">
 
 ### 🤖 AI/ML & Data Science
 
